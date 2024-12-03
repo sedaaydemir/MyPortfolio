@@ -1,6 +1,4 @@
-Sayın Murat Yücedağ tarafından sunulan Udemy "Asp.Net Core ile Admin Panelli Dinamik Bir Portfolyo Geliştirelim" kursunu başarıyla tamamladım. 
-
-Projemizde bir portfolyo teması üstünden SQL veri tabanını kullanarak; "Hakkımda, Deneyimlerim, Yeteneklerim, Referanslarım, İletişim Bilgilerim" gibi verilerin dinamik olarak yönetimi yapılmaktadır.
+Projede bir portfolyo teması üstünden SQL veri tabanını kullanarak; "Hakkımda, Deneyimlerim, Yeteneklerim, Referanslarım, İletişim Bilgilerim" gibi verilerin dinamik olarak yönetimi yapılmaktadır.
 Projemizde AspNet Core, SQL, Context Sınıfı, Migration İşlemleri, Paket Yönetimleri, Html, Css, Bootstrap, Javascript içerikleri, View Component, Model, View, Controller gibi kavramları kullandık.
 Ayrıca Tek katmanlı mimari üzerinde çalışılmıştır.
 
